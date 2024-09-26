@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "360shell.h": "c"
+    },
+    "cmake.configureOnOpen": true,
+    "C_Cpp.default.compilerPath": "/usr/bin/g++"
+}
